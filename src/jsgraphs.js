@@ -1,7 +1,5 @@
-var jsgraphs = jsgraphs || {};
+const jss = {}
 
-(function(jss){
-    
     jss.less = function(a1, a2, compare) {
         return compare(a1, a2) < 0;
     };
@@ -1200,9 +1198,3 @@ var jsgraphs = jsgraphs || {};
     };
 
     jss.FordFulkerson = FordFulkerson;
-})(jsgraphs);
-
-var module = module || {};
-if(module) {
-	module.exports = jsgraphs;
-}
