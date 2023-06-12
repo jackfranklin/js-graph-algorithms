@@ -3,17 +3,6 @@ Package provides javascript implementation of algorithms for graph processing
 
 [![Build Status](https://travis-ci.org/chen0040/js-graph-algorithms.svg?branch=master)](https://travis-ci.org/chen0040/js-graph-algorithms) [![Coverage Status](https://coveralls.io/repos/github/chen0040/js-graph-algorithms/badge.svg?branch=master)](https://coveralls.io/github/chen0040/js-graph-algorithms?branch=master) 
 
-# Features
-
-* Depth First Search (Link: [HTML DEMO](https://rawgit.com/chen0040/js-graph-algorithms/master/examples/example-dfs.html))
-* Breadth First Search
-* Connected Components for undirected graph (Link: [HTML DEMO](https://rawgit.com/chen0040/js-graph-algorithms/master/examples/example-connected-components.html))
-* Topoloical Sort (Link: [HTML DEMO](https://rawgit.com/chen0040/js-graph-algorithms/master/examples/example-topo-sort.html))
-* Strongly Connected Components for directed graph (Link: [HTML DEMO](https://rawgit.com/chen0040/js-graph-algorithms/master/examples/example-strongly-connected-components.html))
-* Minimum Spanning Tree for weighted graph (Kruskal, Prim Lazy, Prim Eager) (Link: [HTML DEMO](https://rawgit.com/chen0040/js-graph-algorithms/master/examples/example-kruskal.html))
-* Shortest Paths (Dijkstra, Bellman-Ford, Topological Sort on DAG) (Link: [HTML DEMO](https://rawgit.com/chen0040/js-graph-algorithms/master/examples/example-dijkstra.html))
-* MaxFlow-MinCut (Ford-Fulkerson) (Link: [HTML DEMO](https://rawgit.com/chen0040/js-graph-algorithms/master/examples/example-ford-fulkerson.html))
-
 # Install
 
 ```bash
