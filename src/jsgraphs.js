@@ -1198,3 +1198,5 @@ const jss = {}
     };
 
     jss.FordFulkerson = FordFulkerson;
+
+export default jss
